@@ -8,3 +8,6 @@
   
   - numpy
   - scipy
+
+##  参考文献
+[1] Pareek, N.K. & Patidar, V. Soft Comput (2016) 20: 763. https://doi.org/10.1007/s00500-014-1539-7
